@@ -5,7 +5,7 @@ Created on Wed Mar 13 17:54:52 2019
 
 @author: thatguy99
 """
-
+#this port scanner makes use of threads to scan for open ports
 import socket
 import threading
 from Queue import Queue
